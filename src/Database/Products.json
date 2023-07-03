@@ -1,0 +1,201 @@
+[
+    {
+    "id": "1a",
+    "name": "Ducky One 2",
+    "price": 100,
+    "currency": "USD",
+    "delivery": false,
+    "thumbnail": "https://mechanicalkeyboards.com/shop/images/products/large_DKME1961ST-USPDZZT1_10.jpg",
+    "inStock": true,
+    "categoryId": "fgsa2142fa",
+    "description": "Keyboards"
+    },
+    {
+        "id": "1x",
+        "name": "Tracer",
+        "price": 100,
+        "currency": "USD",
+        "delivery": false,
+        "thumbnail": "https://en.tracer.eu/gfx-base/files/TRA/KLA/45898/hire_45898.jpg",
+        "inStock": true,
+        "categoryId": "fgsa2142fa",
+        "description": "Keyboards"
+    },
+    {
+        "id": "1y",
+        "name": "Apple keybord",
+        "price": 100,
+        "currency": "USD",
+        "delivery": false,
+        "thumbnail": "https://cdn.mos.cms.futurecdn.net/416f90c671c1a92b1c7c242298245c5d-1200-80.jpg",
+        "inStock": true,
+        "categoryId": "fgsa2142fa",
+        "description": "Keyboards"
+    },
+    {
+        "id": "1z",
+        "name": "Dell 3D Model",
+        "price": 100,
+        "currency": "USD",
+        "delivery": false,
+        "thumbnail": "https://img-new.cgtrader.com/items/119271/keyboard_dell_3d_model_ige_igs_iges__sldprt_sldasm_slddrw_ad85879e-b378-4bcc-a369-403bbca34371.jpg",
+        "inStock": true,
+        "categoryId": "fgsa2142fa",
+        "description": "Keyboards"
+    },
+    {
+    "id": "2a",
+    "name": "Varmilo Sakura",
+    "price": 140,
+    "currency": "USD",
+    "delivery": true,
+    "thumbnail": "https://mechanicalkeyboards.com/shop/images/products/large_2790_SakuraTKL_1.jpg",
+    "inStock": true,
+    "categoryId": "fgsa2142fa",
+    "description": "Keyboards"
+    },
+    {
+    "id": "3a",
+    "name": "MK Disco",
+    "price": 80,
+    "currency": "USD",
+    "delivery": true,
+    "thumbnail": "https://mechanicalkeyboards.com/shop/images/products/large_2017_Disco_White_Caps_1.png",
+    "inStock": false,
+    "categoryId": "fgsa2142fa",
+    "description": "Keyboards"
+    },
+    {
+    "id": "4b",
+    "name": "Razer Kraken",
+    "price": 60,
+    "currency": "USD",
+    "delivery": false,
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71BKQhFzDmL._AC_SY355_.jpg",
+    "inStock": false,
+    "categoryId": "xasgy42fa",
+    "description": "Headphones"
+    },
+    {
+        "id": "4x",
+        "name": "Beats",
+        "price": 60,
+        "currency": "USD",
+        "delivery": false,
+        "thumbnail": "https://www.bhphotovideo.com/images/images2500x2500/beats_by_dr_dre_mhdm2am_a_studio_wireless_over_ear_headphones_gold_1098356.jpg",
+        "inStock": false,
+        "categoryId": "xasgy42fa",
+        "description": "Headphones"
+    },
+    {
+        "id": "4y",
+        "name": "SONY",
+        "price": 60,
+        "currency": "USD",
+        "delivery": false,
+        "thumbnail": "https://www.bhphotovideo.com/images/images2500x2500/sony_mdr100abn_p_h_ear_on_wireless_nc_1220500.jpg",
+        "inStock": false,
+        "categoryId": "xasgy42fa",
+        "description": "Headphones"
+    },
+    {
+        "id": "4z",
+        "name": "CGTrader",
+        "price": 60,
+        "currency": "USD",
+        "delivery": false,
+        "thumbnail": "https://img2.cgtrader.com/items/962014/9d4cc8943b/mens-stylish-full-ear-headphones-3d-model.jpg",
+        "inStock": false,
+        "categoryId": "xasgy42fa",
+        "description": "Headphones"
+    },
+    {
+    "id": "5b",
+    "name": "HyperX Cloud II",
+    "price": 115,
+    "currency": "USD",
+    "delivery": false,
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/719KtJ-RAFL._AC_SL1417_.jpg",
+    "inStock": true,
+    "categoryId": "xasgy42fa",
+    "description": "Headphones"
+    },
+    {
+    "id": "6b",
+    "name": "Sennheiser PC 3 Chat",
+    "price": 60,
+    "currency": "USD",
+    "delivery": false,
+    "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/61kIoNSe3VL._SL1500_.jpg",
+    "inStock": true,
+    "categoryId": "xasgy42fa",
+    "description": "Headphones"
+    },
+    {
+    "id": "6c",
+    "name": "Realme Neckband",
+    "price": 60,
+    "currency": "USD",
+    "delivery": false,
+    "thumbnail": "https://shoppingekart.com/images/product-images/16005039102546698250.jpg",
+    "inStock": true,
+    "categoryId": "xasgy42f3",
+    "description": "Neckbands"
+    },
+    {
+        "id": "6x",
+        "name": "X12",
+        "price": 60,
+        "currency": "USD",
+        "delivery": false,
+        "thumbnail": "https://th.bing.com/th/id/OIP.Eiru_a6nuc-QJdxzPMS21wHaHa?pid=ImgDet&w=5600&h=5600&rs=1",
+        "inStock": true,
+        "categoryId": "xasgy42f3",
+        "description": "Neckbands"
+    },
+    {
+    "id": "6d",
+    "name": "Ptron Tws",
+    "price": 60,
+    "currency": "USD",
+    "delivery": false,
+    "thumbnail": "https://www.omgtricks.com/wp-content/uploads/2020/09/51Uo5iA7ekL._SL1100_-1024x1024.jpg",
+    "inStock": true,
+    "categoryId": "xasgy42f2",
+    "description": "TWS"
+    },
+    {
+    "id": "6e",
+    "name": "Boat Airdopes",
+    "price": 60,
+    "currency": "USD",
+    "delivery": false,
+    "thumbnail": "https://cdn1.smartprix.com/rx-iyPYSBJSJ-w1200-h1200/boat-airdopes-281-v2.jpg",
+    "inStock": true,
+    "categoryId": "xasgy42f2",
+    "description": "TWS"
+    },
+    {
+    "id": "7b",
+    "name": "Realme Band",
+    "price": 60,
+    "currency": "USD",
+    "delivery": false,
+    "thumbnail": "https://th.bing.com/th/id/OIP.V7tXRMbxGCztq-e2B8lnvwHaEK?pid=ImgDet&rs=1",
+    "inStock": true,
+    "categoryId": "xasgy42f4",
+    "description": "Watches"
+    },
+    {
+    "id": "8b",
+    "name": "Boat Smartwatch",
+    "price": 60,
+    "currency": "USD",
+    "delivery": false,
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/QVt8Ty5dSx9nvthBCAKu2d.jpg",
+    "inStock": true,
+    "categoryId": "xasgy42f4",
+    "description": "Watches"
+    }
+    ]
+    
