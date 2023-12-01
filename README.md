@@ -22,4 +22,4 @@ A sleek web development project powered by React Vite.
 
 ```bash
 git clone https://github.com/Junsume/TAL_FinalProject.git
-cd yourproject
+cd TAL_FinalProject
